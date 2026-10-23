@@ -1,0 +1,8 @@
+In computing, ticking is a way to handle concurrency. Which translates to running something on repeat at a given interval.
+Examples:
+ -> player position updates
+ -> hearbeat signals
+ -> counters
+ -> stuff like that
+
+There are various ways to do it, the most popular one being the accumulator pattern
